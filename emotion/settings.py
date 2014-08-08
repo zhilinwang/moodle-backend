@@ -24,7 +24,7 @@ DEBUG =  True
 
 TEMPLATE_DEBUG = False
 
-ALLOWED_HOSTS = ['localhost','114.215.210.127']
+ALLOWED_HOSTS = ['localhost',]
 CORS_ALLOW_HEADERS = (
     'x-requested-with',
     'content-type',
