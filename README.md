@@ -6,7 +6,7 @@ and
 
 https://github.com/zhilinwang/moodle-CMS.git  in folder /content-provider
 
-and put it in the same directory as this project.
+and put them in the same directory as this project.
 
 like:
 
@@ -16,6 +16,8 @@ like:
 
 --/content-provider/
 
-Detail infomation please refer to:
+Detail infomation about this project please refer to:
 
 https://github.com/zhilinwang/moodle-backend/wiki
+
+Other information about related project please go to corresponding repo.
